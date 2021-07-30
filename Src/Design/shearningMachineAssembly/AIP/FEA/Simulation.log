@@ -1,0 +1,16 @@
+﻿Study Static Analysis:1 started: 30/07/2021, 23:03:39
+Number of configurations: 1
+Default mesh: 66557 elements, 116648 nodes
+Study Static Analysis:1 finished: 30/07/2021, 23:03:45
+Total time 0:00:06
+
+Study Static Analysis:1 started: 30/07/2021, 23:10:53
+Number of configurations: 1
+Default mesh: 67513 elements, 118212 nodes
+Mesh at contact 31 is too coarse
+Solution time 15.3s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 30/07/2021, 23:11:14
+Total time 0:00:21
+
