@@ -1,6 +1,5 @@
 # Manufacturing-Technology-1-Project
 
-[![HitCount](http://hits.dwyl.io/KelvinGitu/Design-of-a-Manual-Shearing-Machine.svg?style=flat)](http://hits.dwyl.io/KelvinGitu/Design-of-a-Manual-Shearing-Machine)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/KelvinGitu/Design-of-a-Manual-Shearing-Machine/issues)
 ![GitHub repo size](https://img.shields.io/github/repo-size/KelvinGitu/Design-of-a-Manual-Shearing-Machine.svg?color=purple&style=flat)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Flask.svg?style=flat)
